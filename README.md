@@ -43,4 +43,4 @@ Explore various digital logic circuits and designs implemented in both Verilog a
 To use the code in this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Basic-verilog-and-VHDL-codes.git
+git clone https://github.com/yugeshsivakumar/Basic-verilog-and-VHDL-codes.git
