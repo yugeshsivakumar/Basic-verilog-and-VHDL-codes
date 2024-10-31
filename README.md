@@ -4,7 +4,7 @@
 
 This Repo contains basic Verilog and VHDL codes! This repository is designed to help you practice and understand fundamental concepts in digital design using Verilog and VHDL languages.
 
-## Introduction
+## ℹ️ Introduction
 
 This repository provides simple yet effective examples of Verilog and VHDL code snippets. Whether you're a beginner looking to learn these hardware description languages or a seasoned engineer refreshing your skills, you'll find useful examples and explanations here.
 
