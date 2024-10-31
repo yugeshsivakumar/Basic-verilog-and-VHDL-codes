@@ -208,12 +208,12 @@ Basic-verilog-and-VHDL-codes
 Clone this repository:
 
 ```bash
-git clone https://github.com/yugeshsivakumar/portfolio
+git clone https://github.com/yugeshsivakumar/Basic-verilog-and-VHDL-codes.git
 ```
 Navigate to the project directory:
 
 ```bash
-cd portfolio
+cd Basic-verilog-and-VHDL-codes
 ```
 
 ## 📩 Contact
