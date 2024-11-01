@@ -229,6 +229,10 @@ Feel free to reach out to me:
 ## 🛂 Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
 
+## 🔗 References
+
+- [RTL-Coding](https://github.com/OrsuVenkataKrishnaiah1235/RTL-Coding/tree/main): A collection of Verilog resources and projects covering basic to advanced topics.
+- [verilog-code](https://github.com/SatyenderYadav/verilog-code):There are verilog codes for the different ICs
 ## 🔑 License
 
 This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
