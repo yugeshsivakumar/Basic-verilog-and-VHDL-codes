@@ -4,6 +4,8 @@
 
 This Repo contains basic Verilog and VHDL codes! This repository is designed to help you practice and understand fundamental concepts in digital design using Verilog and VHDL languages.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/yugeshsivakumar/Basic-verilog-and-VHDL-codes)
+
 ## ℹ️ Introduction
 
 This repository provides simple yet effective examples of Verilog and VHDL code snippets. Whether you're a beginner looking to learn these hardware description languages or a seasoned engineer refreshing your skills, you'll find useful examples and explanations here.
@@ -201,8 +203,10 @@ Basic-verilog-and-VHDL-codes
 │   └── Universal_logical_Shift_register.vhdl
 │
 └── Universal_up_down_counter
-    ├── Universal_up_down_counter.v
-    └── Universal_up_down_counter.vhdl
+|   ├── Universal_up_down_counter.v
+|   └── Universal_up_down_counter.vhdl
+│
+└── ⭕ HDL_Basics_verilog
 ```
 ## 🏃‍♂️‍➡️ Usage
 Clone this repository:
